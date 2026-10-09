@@ -22,7 +22,13 @@ export const GLOVE_LEVELS = {
   "1": { rank: 1, summary: "The lower level in EN 13594, with lighter performance thresholds. Suited to short, low-speed rides." },
 };
 
-export const CERT_MAPS = { jackets: JACKET_CLASSES, helmets: HELMET_STANDARDS, gloves: GLOVE_LEVELS };
+export const SHOE_LEVELS = {
+  "2": { rank: 2, summary: "The higher level in EN 13634, with stricter abrasion, impact and cut-through requirements. Better for road and touring use." },
+  "1": { rank: 1, summary: "The lower level in EN 13634, with lighter performance thresholds. Suited to short, low-speed rides." },
+};
+
+// Pants use the same EN 17092 classes as jackets.
+export const CERT_MAPS = { jackets: JACKET_CLASSES, helmets: HELMET_STANDARDS, gloves: GLOVE_LEVELS, pants: JACKET_CLASSES, shoes: SHOE_LEVELS };
 
 // Key used to group and rank an item: its class if it has one, else its standard.
 export const certKey = (c) => c.class ?? c.standard;

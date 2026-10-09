@@ -24,4 +24,4 @@ npm run dev
 
 ## Status
 
-v1: jackets, helmets and gloves (flow: home → gear picker → listing → detail) with sample data. Purchase sources are a placeholder block.
+v1: jackets, helmets, gloves, pants and shoes (flow: home → gear picker → listing → detail) with sample data. Purchase sources are a placeholder block.
