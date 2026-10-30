@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "description": "Official product pages are collected conservatively. Check each site's terms and robots.txt; collected facts remain needs-review until verified.",
+  "sources": [
+    {
+      "id": "rynox-official-store",
+      "brand": "Rynox",
+      "type": "website-scraper",
+      "scraper": "rynox",
+      "enabled": true,
+      "officialDomain": "rynoxgear.com",
+      "collections": [
+        "https://rynoxgear.com/collections/all",
+        "https://rynoxgear.com/collections/protective-gear",
+        "https://rynoxgear.com/collections/jackets",
+        "https://rynoxgear.com/collections/gloves",
+        "https://rynoxgear.com/collections/riding-pants",
+        "https://rynoxgear.com/collections/new-collection",
+        "https://rynoxgear.com/collections/off-road-jacket",
+        "https://rynoxgear.com/collections/off-road-pants",
+        "https://rynoxgear.com/collections/offroad-gloves",
+        "https://rynoxgear.com/collections/rainwear",
+        "https://rynoxgear.com/collections/protector-inserts"
+      ],
+      "notes": "Rynox pilot with official all-products and category collections. Per-collection diagnostics report pages fetched and product links seen. URLs may change; review logs and staging before publishing."
+    }
+  ]
+}

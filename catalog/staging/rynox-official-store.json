@@ -1,0 +1,1269 @@
+{
+  "sourceId": "rynox-official-store",
+  "fetchedAt": "2026-10-22T21:39:03.616Z",
+  "accepted": 4,
+  "rejected": 0,
+  "issues": [],
+  "diagnostics": {
+    "collectionUrls": 11,
+    "discoveredProductUrls": 4,
+    "fetchedProducts": 4,
+    "collectionErrors": [
+      {
+        "url": "https://rynoxgear.com/collections/riding-pants",
+        "error": "The operation was aborted due to timeout"
+      },
+      {
+        "url": "https://rynoxgear.com/collections/new-collection",
+        "error": "fetch failed"
+      }
+    ],
+    "collectionStats": [
+      {
+        "url": "https://rynoxgear.com/collections/all",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 1409541,
+            "title": "Products &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 1163220,
+            "title": "Products &ndash; Page 2 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 1200552,
+            "title": "Products &ndash; Page 3 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 937060,
+            "title": "Products &ndash; Page 4 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 1020446,
+            "title": "Products &ndash; Page 5 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 679412,
+            "title": "Products &ndash; Page 6 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 745081,
+            "title": "Products &ndash; Page 7 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 813431,
+            "title": "Products &ndash; Page 8 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/protective-gear",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 1742054,
+            "title": "Motorcycle Protective Apparels - Rynox Gears",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 1336905,
+            "title": "Motorcycle Protective Apparels - Rynox Gears &ndash; Page 2",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 939795,
+            "title": "Motorcycle Protective Apparels - Rynox Gears &ndash; Page 3",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 621118,
+            "title": "Motorcycle Protective Apparels - Rynox Gears &ndash; Page 4",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 357390,
+            "title": "Motorcycle Protective Apparels - Rynox Gears &ndash; Page 5",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 357301,
+            "title": "Motorcycle Protective Apparels - Rynox Gears &ndash; Page 6",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 357301,
+            "title": "Motorcycle Protective Apparels - Rynox Gears &ndash; Page 7",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 357301,
+            "title": "Motorcycle Protective Apparels - Rynox Gears &ndash; Page 8",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/jackets",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 1430804,
+            "title": "Jackets &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 525635,
+            "title": "Jackets &ndash; Page 2 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 357346,
+            "title": "Jackets &ndash; Page 3 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 357346,
+            "title": "Jackets &ndash; Page 4 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 357346,
+            "title": "Jackets &ndash; Page 5 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 357346,
+            "title": "Jackets &ndash; Page 6 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 357346,
+            "title": "Jackets &ndash; Page 7 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 357346,
+            "title": "Jackets &ndash; Page 8 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/gloves",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 1426071,
+            "title": "Motorcycle Gloves - Rynox Gears",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 423152,
+            "title": "Motorcycle Gloves - Rynox Gears &ndash; Page 2",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 358745,
+            "title": "Motorcycle Gloves - Rynox Gears &ndash; Page 3",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 357578,
+            "title": "Motorcycle Gloves - Rynox Gears &ndash; Page 4",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 358745,
+            "title": "Motorcycle Gloves - Rynox Gears &ndash; Page 5",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 357578,
+            "title": "Motorcycle Gloves - Rynox Gears &ndash; Page 6",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 357578,
+            "title": "Motorcycle Gloves - Rynox Gears &ndash; Page 7",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 357578,
+            "title": "Motorcycle Gloves - Rynox Gears &ndash; Page 8",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/riding-pants",
+        "pagesFetched": 0,
+        "productLinksSeen": 0,
+        "pageStats": []
+      },
+      {
+        "url": "https://rynoxgear.com/collections/new-collection",
+        "pagesFetched": 0,
+        "productLinksSeen": 0,
+        "pageStats": []
+      },
+      {
+        "url": "https://rynoxgear.com/collections/off-road-jacket",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 479153,
+            "title": "Off Road Jacket &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 357009,
+            "title": "Off Road Jacket &ndash; Page 2 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 357009,
+            "title": "Off Road Jacket &ndash; Page 3 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 357009,
+            "title": "Off Road Jacket &ndash; Page 4 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 357009,
+            "title": "Off Road Jacket &ndash; Page 5 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 357009,
+            "title": "Off Road Jacket &ndash; Page 6 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 357009,
+            "title": "Off Road Jacket &ndash; Page 7 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 357009,
+            "title": "Off Road Jacket &ndash; Page 8 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/off-road-pants",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 440015,
+            "title": "Off road Pants &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 357083,
+            "title": "Off road Pants &ndash; Page 2 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 357083,
+            "title": "Off road Pants &ndash; Page 3 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 357083,
+            "title": "Off road Pants &ndash; Page 4 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 357083,
+            "title": "Off road Pants &ndash; Page 5 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 357083,
+            "title": "Off road Pants &ndash; Page 6 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 357083,
+            "title": "Off road Pants &ndash; Page 7 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 357083,
+            "title": "Off road Pants &ndash; Page 8 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/offroad-gloves",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 444293,
+            "title": "Offroad Gloves &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 357874,
+            "title": "Offroad Gloves &ndash; Page 2 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 356707,
+            "title": "Offroad Gloves &ndash; Page 3 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 356707,
+            "title": "Offroad Gloves &ndash; Page 4 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 356707,
+            "title": "Offroad Gloves &ndash; Page 5 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 356707,
+            "title": "Offroad Gloves &ndash; Page 6 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 357874,
+            "title": "Offroad Gloves &ndash; Page 7 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 356707,
+            "title": "Offroad Gloves &ndash; Page 8 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/rainwear",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 584508,
+            "title": "Rainwear &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 357119,
+            "title": "Rainwear &ndash; Page 2 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 357119,
+            "title": "Rainwear &ndash; Page 3 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 357119,
+            "title": "Rainwear &ndash; Page 4 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 357119,
+            "title": "Rainwear &ndash; Page 5 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 357119,
+            "title": "Rainwear &ndash; Page 6 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 357119,
+            "title": "Rainwear &ndash; Page 7 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 357119,
+            "title": "Rainwear &ndash; Page 8 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://rynoxgear.com/collections/protector-inserts",
+        "pagesFetched": 8,
+        "productLinksSeen": 32,
+        "pageStats": [
+          {
+            "page": 1,
+            "htmlLength": 388553,
+            "title": "Protector Inserts &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 2,
+            "htmlLength": 356785,
+            "title": "Protector Inserts &ndash; Page 2 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 3,
+            "htmlLength": 356785,
+            "title": "Protector Inserts &ndash; Page 3 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 4,
+            "htmlLength": 356785,
+            "title": "Protector Inserts &ndash; Page 4 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 5,
+            "htmlLength": 356785,
+            "title": "Protector Inserts &ndash; Page 5 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 6,
+            "htmlLength": 356785,
+            "title": "Protector Inserts &ndash; Page 6 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 7,
+            "htmlLength": 356785,
+            "title": "Protector Inserts &ndash; Page 7 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          },
+          {
+            "page": 8,
+            "htmlLength": 357952,
+            "title": "Protector Inserts &ndash; Page 8 &ndash; Rynox Gear",
+            "productLinksOnPage": 4,
+            "uniqueProductLinksOnPage": 4,
+            "repeatedHtmlFingerprint": false,
+            "sampleProductUrls": [
+              "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+              "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+              "https://rynoxgear.com/products/navigator-hydration-backpack",
+              "https://rynoxgear.com/products/lumbar-support-belt"
+            ]
+          }
+        ]
+      }
+    ],
+    "productErrors": [],
+    "requestsMade": 78,
+    "note": "Product data is unverified until reviewed. Collection scraping does not itself prove certification claims."
+  },
+  "products": [
+    {
+      "id": "rynox-ridge-pro-offroad-gloves",
+      "name": "RIDGE PRO OFFROAD GLOVES",
+      "brand": "Rynox",
+      "type": "gloves",
+      "variant": null,
+      "description": "When navigating off-road terrain, the critical aspects of tactility, ventilation, and comfort reign supreme. Engineered with these priorities in mind, the Ridge Pro Gloves stand as a specialised solution meticulously crafted to meet the unique demands of off-road motorcycle riding. IMPACT PROTECTION Knuckle: ImpactOn f",
+      "materials": [
+        "Leather",
+        "Mesh"
+      ],
+      "ridingStyles": [
+        "offroad"
+      ],
+      "certifications": [],
+      "images": [
+        "http://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen01_1200x1200.jpg?v=1699265352",
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen01_590x.jpg?v=1699265352",
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen02_590x.jpg?v=1699265366",
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen03_590x.jpg?v=1699265371",
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen04_590x.jpg?v=1699265375",
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen05_590x.jpg?v=1699265385",
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen06_590x.jpg?v=1699265390",
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen07_590x.jpg?v=1699265395"
+      ],
+      "price": 2350,
+      "currency": "INR",
+      "availability": "unavailable-or-restocking",
+      "source": {
+        "sourceId": "rynox-official-store",
+        "sourceType": "website-scraper",
+        "brand": "Rynox",
+        "officialDomain": "rynoxgear.com",
+        "productUrl": "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+        "recordUrl": "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+        "extractionMethod": "official-product-page-html",
+        "retrievedAt": "2026-10-22T21:39:03.616Z",
+        "lastVerifiedAt": null,
+        "verificationStatus": "needs-review"
+      }
+    },
+    {
+      "id": "rynox-vapour-pro-performance-base-layer-black-balaclava",
+      "name": "VAPOUR PRO PERFORMANCE BALACLAVA",
+      "brand": "Rynox",
+      "type": "other",
+      "variant": null,
+      "description": "VAPOUR PRO PERFORMANCE BASE LAYER - Grey. Made for all outdoor activities.. 90% Polyamide. 4 Way Stretch. Anti - Bacterial. Quick Dry.",
+      "materials": [
+        "Polyamide"
+      ],
+      "ridingStyles": [],
+      "certifications": [],
+      "images": [
+        "http://rynoxgear.com/cdn/shop/files/VAPOURPROPERFORMANCE-BLACKBALACLAVA_01_1_1200x1200.jpg?v=1742909816",
+        "https://rynoxgear.com/cdn/shop/files/VAPOURPROPERFORMANCE-BLACKBALACLAVA_01_1_590x.jpg?v=1742909816",
+        "https://rynoxgear.com/cdn/shop/files/PERFORMANCE_BALACLAVA_balck_590x.jpg?v=1742909816",
+        "https://cdn.shopify.com/s/files/1/1947/9551/t/7/assets/acf.Balaclava-Size-chart-(1).jpg?v=1701495648",
+        "https://cdn.shopify.com/s/files/1/1947/9551/t/7/assets/acf.vapour-pro.png?v=1660377250",
+        "https://cdn.shopify.com/s/files/1/1947/9551/t/7/assets/acf.ventilation-off-b.png?v=1621266109",
+        "https://cdn.shopify.com/s/files/1/1947/9551/t/7/assets/acf.Materials-and-Construction--off.png?v=1628846113",
+        "https://cdn.shopify.com/s/files/1/1947/9551/t/7/assets/acf.fit-and-adjustment-off-b.png?v=1621266791"
+      ],
+      "price": 700,
+      "currency": "INR",
+      "availability": "in-stock",
+      "source": {
+        "sourceId": "rynox-official-store",
+        "sourceType": "website-scraper",
+        "brand": "Rynox",
+        "officialDomain": "rynoxgear.com",
+        "productUrl": "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+        "recordUrl": "https://rynoxgear.com/products/vapour-pro-performance-base-layer-black-balaclava",
+        "extractionMethod": "official-product-page-html",
+        "retrievedAt": "2026-10-22T21:39:03.616Z",
+        "lastVerifiedAt": null,
+        "verificationStatus": "needs-review"
+      }
+    },
+    {
+      "id": "rynox-navigator-hydration-backpack",
+      "name": "NAVIGATOR HYDRATION BACKPACK",
+      "brand": "Rynox",
+      "type": "other",
+      "variant": null,
+      "description": "VOLUME AND COMPARTMENT Cargo Volume: 4 Ltr capacity for all your essentials. Compatible with hydration bladder up to 3L for on-the-go hydration (Sold Separately) STASH ELASTIC CORD: Versatile storage, load compression, and quick access. VIOO CLIP: Clip-on visibility for outdoor adventures. 3 DRAINAGE EYELETS: Ensure wa",
+      "materials": [
+        "Cordura",
+        "Polyester"
+      ],
+      "ridingStyles": [
+        "city",
+        "offroad"
+      ],
+      "certifications": [],
+      "images": [
+        "http://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_001_1200x1200.jpg?v=1703576847",
+        "https://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_001_590x.jpg?v=1703576847",
+        "https://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_003_1_590x.jpg?v=1703576847",
+        "https://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_002_1_590x.jpg?v=1703576847",
+        "https://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_004_590x.jpg?v=1703576847",
+        "https://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_005_590x.jpg?v=1703576847",
+        "https://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_006_590x.jpg?v=1703576847",
+        "https://rynoxgear.com/cdn/shop/files/RYNOX_HYDRATIONBAG_007_590x.jpg?v=1703576847"
+      ],
+      "price": 3750,
+      "currency": "INR",
+      "availability": "in-stock",
+      "source": {
+        "sourceId": "rynox-official-store",
+        "sourceType": "website-scraper",
+        "brand": "Rynox",
+        "officialDomain": "rynoxgear.com",
+        "productUrl": "https://rynoxgear.com/products/navigator-hydration-backpack",
+        "recordUrl": "https://rynoxgear.com/products/navigator-hydration-backpack",
+        "extractionMethod": "official-product-page-html",
+        "retrievedAt": "2026-10-22T21:39:03.616Z",
+        "lastVerifiedAt": null,
+        "verificationStatus": "needs-review"
+      }
+    },
+    {
+      "id": "rynox-lumbar-support-belt",
+      "name": "LUMBAR SUPPORT BELT",
+      "brand": "Rynox",
+      "type": "other",
+      "variant": null,
+      "description": "Riding through the day can be tiring, especially on the lower back. The lumbar support belt assists in reducing fatigue, so that you can be in the saddle longer.while the adjustable velcro straps guarantee a comfortable and custom fit.",
+      "materials": [],
+      "ridingStyles": [],
+      "certifications": [],
+      "images": [
+        "http://rynoxgear.com/cdn/shop/products/RynoxLumberSupportBelt01_1200x1200.png?v=1661009722",
+        "https://rynoxgear.com/cdn/shop/products/RynoxLumberSupportBelt01_590x.png?v=1661009722",
+        "https://rynoxgear.com/cdn/shop/products/RynoxLumberSupportBelt02_590x.png?v=1661009757",
+        "https://rynoxgear.com/cdn/shop/products/RynoxLumberSupportBelt03_590x.jpg?v=1661172355",
+        "https://rynoxgear.com/cdn/shop/files/STEALTHAIRPROJACKET-BlueHi-VizGreen_394x.jpg?v=1710769138",
+        "https://rynoxgear.com/cdn/shop/products/RynoxStealthAirProJacketNavyBlue02_%7Bwidth%7Dx.png?v=1710769138",
+        "https://rynoxgear.com/cdn/shop/products/Rynox_H2Go_Waterproof_Socks_Black_Grey_01_394x.jpg?v=1626265179",
+        "https://rynoxgear.com/cdn/shop/products/Rynox_H2Go_Waterproof_Socks_Black_Grey_02_%7Bwidth%7Dx.jpg?v=1626265186"
+      ],
+      "price": 450,
+      "currency": "INR",
+      "availability": "unavailable-or-restocking",
+      "source": {
+        "sourceId": "rynox-official-store",
+        "sourceType": "website-scraper",
+        "brand": "Rynox",
+        "officialDomain": "rynoxgear.com",
+        "productUrl": "https://rynoxgear.com/products/lumbar-support-belt",
+        "recordUrl": "https://rynoxgear.com/products/lumbar-support-belt",
+        "extractionMethod": "official-product-page-html",
+        "retrievedAt": "2026-10-22T21:39:03.616Z",
+        "lastVerifiedAt": null,
+        "verificationStatus": "needs-review"
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "brand": "Rynox",
+  "officialDomain": "rynoxgear.com",
+  "catalogScope": "Protective riding gear only: gloves, jackets, pants, shoes, armor, and suits. Excludes luggage, hydration packs, base layers, rainwear, and other accessories.",
+  "products": [
+    {
+      "id": "rynox-ridge-pro-offroad-gloves",
+      "name": "RIDGE PRO OFFROAD GLOVES",
+      "type": "gloves",
+      "variant": null,
+      "description": "Off-road gloves with ImpactOn foam inserts at the knuckle and carpus, a perforated full-grain leather chassis, suede palm, and 3D mesh ventilation panels.",
+      "materials": [
+        "Full-grain leather",
+        "Suede",
+        "Mesh"
+      ],
+      "ridingStyles": [
+        "offroad"
+      ],
+      "certifications": [],
+      "images": [
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen01.jpg?v=1699265352"
+      ],
+      "price": 2350,
+      "currency": "INR",
+      "availability": "unavailable",
+      "productUrl": "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+      "sourceUrl": "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+      "lastVerifiedAt": "2026-10-26T00:00:00.000Z",
+      "verificationStatus": "needs-review",
+      "reviewNotes": [
+        "Created from the manually supplied official page-source product object.",
+        "Review availability and any certification evidence before marking verified."
+      ],
+      "sourceProductId": "6917780570179"
+    },
+    {
+      "id": "rynox-striker-gt-gloves",
+      "name": "STRIKER GT GLOVES",
+      "type": "gloves",
+      "variant": null,
+      "description": null,
+      "materials": [],
+      "ridingStyles": ["city"],
+      "certifications": [],
+      "images": [
+        "https://rynoxgear.com/cdn/shop/files/Rynox_StrikerGTGloves_3DImages_3.jpg?v=1788438120",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_01.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_03.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_04.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_05.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_06.jpg?v=1789561469"
+      ],
+      "price": 3150,
+      "currency": "INR",
+      "availability": "in-stock",
+      "productUrl": "https://rynoxgear.com/products/striker-gt-gloves",
+      "sourceUrl": "https://rynoxgear.com/products/striker-gt-gloves",
+      "lastVerifiedAt": "2026-10-25T20:59:23.441Z",
+      "verificationStatus": "needs-review",
+      "reviewNotes": [
+        "Draft created from manually copied official page source.",
+        "Review materials, riding styles, price, availability, images, and every certification claim before changing verificationStatus to verified.",
+        "Certifications are intentionally empty; add only explicit, source-backed certification details."
+      ],
+      "sourceProductId": "7822247854147",
+      "sourceVariants": [
+        {
+          "name": "S / All Black",
+          "sku": "RX-GV-STRKGT-BK/BK-CD-S",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "S / Black Hi-Viz Green",
+          "sku": "RX-GV-STRKGT-BK/GN-CD-S",
+          "available": false,
+          "price": 3150
+        },
+        {
+          "name": "S / Black White",
+          "sku": "RX-GV-STRKGT-BK/WT-CD-S",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "M / All Black",
+          "sku": "RX-GV-STRKGT-BK/BK-CD-M",
+          "available": false,
+          "price": 3150
+        },
+        {
+          "name": "M / Black Hi-Viz Green",
+          "sku": "RX-GV-STRKGT-BK/GN-CD-M",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "M / Black White",
+          "sku": "RX-GV-STRKGT-BK/WT-CD-M",
+          "available": false,
+          "price": 3150
+        },
+        {
+          "name": "L / All Black",
+          "sku": "RX-GV-STRKGT-BK/BK-CD-L",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "L / Black Hi-Viz Green",
+          "sku": "RX-GV-STRKGT-BK/GN-CD-L",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "L / Black White",
+          "sku": "RX-GV-STRKGT-BK/WT-CD-L",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "XL / All Black",
+          "sku": "RX-GV-STRKGT-BK/BK-CD-XL",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "XL / Black Hi-Viz Green",
+          "sku": "RX-GV-STRKGT-BK/GN-CD-XL",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "XL / Black White",
+          "sku": "RX-GV-STRKGT-BK/WT-CD-XL",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "2XL / All Black",
+          "sku": "RX-GV-STRKGT-BK/BK-CD-2XL",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "2XL / Black Hi-Viz Green",
+          "sku": "RX-GV-STRKGT-BK/GN-CD-2XL",
+          "available": true,
+          "price": 3150
+        },
+        {
+          "name": "2XL / Black White",
+          "sku": "RX-GV-STRKGT-BK/WT-CD-2XL",
+          "available": true,
+          "price": 3150
+        }
+      ]
+    }
+  ]
+}

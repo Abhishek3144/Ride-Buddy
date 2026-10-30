@@ -1,0 +1,48 @@
+{
+  "brand": "Viaterra",
+  "officialDomain": "viaterragear.com",
+  "products": [
+    {
+      "id": "viaterra-kruger-v2",
+      "name": "Kruger V2",
+      "type": "gloves",
+      "variant": "Common",
+      "description": "Short factual description from the official source.",
+      "materials": [],
+      "ridingStyles": [
+        "touring"
+      ],
+      "certifications": [],
+      "images": [
+        "https://viaterragear.com/cdn/shop/files/KrugerV2-07_1.webp?v=1781932131&width=3840"
+      ],
+      "price": 0,
+      "currency": "INR",
+      "availability": "in-stock",
+      "productUrl": "https://viaterragear.com/products/kruger-v2",
+      "sourceUrl": "https://viaterragear.com/products/kruger-v2",
+      "lastVerifiedAt": "2026-10-26T00:00:00.000Z",
+      "verificationStatus": "needs-review"
+    },
+    {
+      "id": "viaterra-common-tundra-v3-waterproof-winter-motor",
+      "name": "common Tundra v3 – Waterproof/ Winter Motorcycle Gloves",
+      "type": "gloves",
+      "variant": "Common",
+      "description": "Imported from HTML snippet. Please review.",
+      "materials": [],
+      "ridingStyles": ["touring"],
+      "certifications": [],
+      "images": [
+        "https://viaterragear.com/cdn/shop/files/Tundra_V2_01.webp?v=1784956993&width=3840"
+      ],
+      "price": 0,
+      "currency": "INR",
+      "availability": "in-stock",
+      "productUrl": "https://viaterragear.com/products/common-tundra-v3-waterproof-winter-motor",
+      "sourceUrl": "https://viaterragear.com/products/common-tundra-v3-waterproof-winter-motor",
+      "lastVerifiedAt": "2026-10-25T22:37:39.703Z",
+      "verificationStatus": "needs-review"
+    }
+  ]
+}

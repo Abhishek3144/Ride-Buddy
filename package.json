@@ -1,0 +1,28 @@
+{
+  "name": "ride-buddy",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "catalog:validate": "node scripts/catalog-pipeline/validate.mjs",
+    "catalog:test-manual": "node scripts/catalog-pipeline/test-manual-pipeline.mjs",
+    "catalog:test-draft": "node scripts/catalog-pipeline/test-product-draft.mjs",
+    "catalog:manual:draft": "node scripts/catalog-pipeline/create-product-draft.mjs",
+    "catalog:manual:import-source": "node scripts/catalog-pipeline/import-product-source.mjs",
+    "catalog:manual:validate": "node scripts/catalog-pipeline/validate-manual.mjs",
+    "catalog:manual:build": "node scripts/catalog-pipeline/build-manual.mjs",
+    "catalog:manual:progress": "node scripts/catalog-pipeline/progress-manual.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
+  }
+}

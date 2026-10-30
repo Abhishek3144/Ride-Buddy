@@ -1,0 +1,13 @@
+{
+  "name": "ride-buddy-scraper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "robots-parser": "^3.0.1"
+  }
+}

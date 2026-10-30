@@ -1,0 +1,10 @@
+{
+  "name": "ride-buddy-pipeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract": "node index.js extract",
+    "export": "node index.js export",
+    "test": "node --test"
+  }
+}

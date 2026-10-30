@@ -1,0 +1,78 @@
+{
+  "brand": "Rynox",
+  "builtAt": "2026-10-25T22:38:49.222Z",
+  "count": 2,
+  "products": [
+    {
+      "id": "rynox-ridge-pro-offroad-gloves",
+      "name": "RIDGE PRO OFFROAD GLOVES",
+      "brand": "Rynox",
+      "type": "gloves",
+      "variant": null,
+      "description": "Off-road gloves with ImpactOn foam inserts at the knuckle and carpus, a perforated full-grain leather chassis, suede palm, and 3D mesh ventilation panels.",
+      "materials": [
+        "Full-grain leather",
+        "Suede",
+        "Mesh"
+      ],
+      "ridingStyles": [
+        "offroad"
+      ],
+      "certifications": [],
+      "images": [
+        "https://rynoxgear.com/cdn/shop/files/RynoxRidgeProOffroadGlovesBlueHi-VizGreen01.jpg?v=1699265352"
+      ],
+      "price": 2350,
+      "currency": "INR",
+      "availability": "unavailable",
+      "source": {
+        "sourceId": "manual-rynox",
+        "sourceType": "manual-entry",
+        "brand": "Rynox",
+        "officialDomain": "rynoxgear.com",
+        "productUrl": "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+        "recordUrl": "https://rynoxgear.com/products/ridge-pro-offroad-gloves",
+        "extractionMethod": "manual-official-source",
+        "retrievedAt": "2026-10-26T00:00:00.000Z",
+        "lastVerifiedAt": "2026-10-26T00:00:00.000Z",
+        "verificationStatus": "needs-review"
+      }
+    },
+    {
+      "id": "rynox-striker-gt-gloves",
+      "name": "STRIKER GT GLOVES",
+      "brand": "Rynox",
+      "type": "gloves",
+      "variant": null,
+      "description": null,
+      "materials": [],
+      "ridingStyles": [
+        "city"
+      ],
+      "certifications": [],
+      "images": [
+        "https://rynoxgear.com/cdn/shop/files/Rynox_StrikerGTGloves_3DImages_3.jpg?v=1788438120",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_01.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_03.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_04.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_05.jpg?v=1789561469",
+        "https://rynoxgear.com/cdn/shop/files/Rynox_GT_Gloves_All_Black_06.jpg?v=1789561469"
+      ],
+      "price": 3150,
+      "currency": "INR",
+      "availability": "in-stock",
+      "source": {
+        "sourceId": "manual-rynox",
+        "sourceType": "manual-entry",
+        "brand": "Rynox",
+        "officialDomain": "rynoxgear.com",
+        "productUrl": "https://rynoxgear.com/products/striker-gt-gloves",
+        "recordUrl": "https://rynoxgear.com/products/striker-gt-gloves",
+        "extractionMethod": "manual-official-source",
+        "retrievedAt": "2026-10-25T20:59:23.441Z",
+        "lastVerifiedAt": "2026-10-25T20:59:23.441Z",
+        "verificationStatus": "needs-review"
+      }
+    }
+  ]
+}

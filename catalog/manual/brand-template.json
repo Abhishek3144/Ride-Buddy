@@ -1,0 +1,24 @@
+{
+  "brand": "Replace with brand name",
+  "officialDomain": "www.example.com",
+  "products": [
+    {
+      "id": "brand-product-variant",
+      "name": "Product name",
+      "type": "jackets",
+      "variant": "Optional colour or variant",
+      "description": "Short factual description from the official source.",
+      "materials": ["Polyester"],
+      "ridingStyles": ["touring"],
+      "certifications": [],
+      "images": ["https://www.example.com/path/to/product-image.jpg"],
+      "price": 0,
+      "currency": "INR",
+      "availability": "in-stock",
+      "productUrl": "https://www.example.com/products/product-slug",
+      "sourceUrl": "https://www.example.com/products/product-slug",
+      "lastVerifiedAt": "2026-10-23T00:00:00.000Z",
+      "verificationStatus": "needs-review"
+    }
+  ]
+}
